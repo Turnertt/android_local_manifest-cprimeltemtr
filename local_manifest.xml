@@ -4,7 +4,7 @@
     <project path="device/lge/msm8916-common" name="PlatinumMaster/android_device_cyanogen_msm8916-common" remote="github" revision="cm-12.1" />
     <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1"  />
     <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1"  />
-    <project path="vendor/samsung/msm8916-common" name="PlatinumMaster/proprietary_vendor_lge_msm8916-common" remote="github" revision="cm-12.1" />
+    <project path="vendor/samsung/msm8916-common" name="PlatinumMaster/proprietary_vendor_samsung_msm8916-common" remote="github" revision="cm-12.1" />
     <project path="vendor/samsung/g360t1" name="PlatinumMaster/proprietary_vendor_samsung_g360t1" remote="github" revision="cm-12.1" />
     <project path="kernel/samsung/msm8916" name="PlatinumMaster/SM-G360T1_kernel" remote="github" revision="cm-12.1" />
 </manifest>
