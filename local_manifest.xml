@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/samsung/cprimeltemtr" name="Azimoto9/android_device_samsung_cprimeltemtr" remote="github" revision="master" />
+  <project path="device/samsung/cprimeltemtr" name="Azimoto9/android_device_samsung_cprimeltemtr" remote="github" revision="cm-12.1" />
   <project path="device/cyanogen/msm8916-common" name="PlatinumMaster/android_device_cyanogen_msm8916-common" remote="github" revision="cm-12.1">
   <project path="kernel/samsung/cprimeltemtr" name="PlatinumMaster/SM-G360T1_kernel" remote="github" revision="master">
 </manifest>
