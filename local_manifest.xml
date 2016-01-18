@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project path="device/samsung/cprimeltemtr" name="Azimoto9/android_device_samsung_cprimeltemtr" remote="github" revision="master" />
 </manifest>
