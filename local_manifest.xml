@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <manifest>
- <project name="Y300-0100/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
- <project name="NXTnet/android_kernel_samsung_msm8916-caf" path="kernel/samsung/msm8916-common" remote="github" revision="cm-12.1" />
- <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
- <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
- <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" revision="cm-12.1" />
+<manifest>
+  <project name="PlatinumMaster/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
+  <project name="NXTnet/android_kernel_samsung_msm8916-caf" path="kernel/samsung/msm8916-caf" remote="github" revision="cm-12.1" />
+  <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
+  <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
+  <project path="external/mm-dash" name="CyanogenMod/android_external_mm-dash" revision="cm-12.1" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-12.1" />
+  <project path="vendor/samsung/cprimeltemtr" name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" revision="master" />
 </manifest>
