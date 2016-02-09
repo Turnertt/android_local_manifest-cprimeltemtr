@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Azimoto9/Android_device_cprimeltemtr_device_tree" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
+  <project name="PlatinumMaster/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
   <project name="NXTnet/android_kernel_samsung_msm8916-caf" path="kernel/samsung/msm8916-caf" remote="github" revision="cm-12.1" />
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
   <project path="device/samsung/qcom-common" name="CyanogenMod/android_device_samsung_qcom-common" revision="cm-12.1" />
