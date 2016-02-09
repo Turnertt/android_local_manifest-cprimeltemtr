@@ -8,4 +8,5 @@
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" revision="cm-12.1" />
   <project path="vendor/samsung/cprimeltemtr" name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" revision="master" />
+  <project name="PlatinumMaster/SM-G360T1_kernel" path="kernel/samsung/cprimeltemtr" remote="github" revision="master" />
 </manifest>
