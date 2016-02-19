@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="PlatinumMaster/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
+  <project name="PlatinumMaster/android_device_samsung_coreprimelte-common" path="device/samsung/coreprimelte-common" remote="github" revision="master">
   <project name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" revision="master" />
   <project name="PlatinumMaster/SM-G360T1_kernel" path="kernel/samsung/cprimeltemtr" remote="github" revision="master" />
   <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" revision="cm-12.1" />
