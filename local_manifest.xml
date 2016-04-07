@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="PlatinumMaster/android_device_samsung_cprimeltemtr-twrp" path="device/samsung/cprimeltemtr" remote="github" revision="master" />
-  <project name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" revision="master" />
+  <project name="PlatinumMaster/twrp-android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="master" />
   <project name="PlatinumMaster/proprietary_vendor_samsung_coreprimelte-common" path="vendor/samsung/coreprimelte-common" revision="master" />
   <project name="PlatinumMaster/android_kernel_samsung_cprimeltemtr" path="kernel/samsung/cprimeltemtr" remote="github" revision="master" />
-  <project name="PlatinumMaster/android_device_samsung_msm8916-common" path="device/samsung/msm8916-common" remote="github" revision="cm-12.1" />
 </manifest>
