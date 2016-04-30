@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- "cprimeltemtr" Repositories. -->
-  <project name="MSM8196-DEV/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
+  <project name="MSM8916-DEV/android_device_samsung_cprimeltemtr" path="device/samsung/cprimeltemtr" remote="github" revision="cm-12.1" />
   <project name="PlatinumMaster/proprietary_vendor_samsung_cprimeltemtr" path="vendor/samsung/cprimeltemtr" revision="master" />
   <project name="PlatinumMaster/android_kernel_samsung_cprimeltemtr" path="kernel/samsung/cprimeltemtr" remote="github" revision="master" />
   <!-- CyanogenMod Repositories. -->
